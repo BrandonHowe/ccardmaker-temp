@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ccardmaker-temp/precache-manifest.ea5e8a5a6e393bdf46a1fc82a19a291f.js"
+  "/ccardmaker-temp/precache-manifest.e3b6a76f9a17c157361faf98e24f03e6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ccardmaker"});
